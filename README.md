@@ -20,7 +20,7 @@
 
 <img src="https://imagetolink.com/ib/JhlMRrRVm7.png"></img>
 <img src="https://imagetolink.com/ib/iKnhxs2Jji.png"></img>
-<img src="https://imagetolink.com/ib/zxARGhNqMI.png"></img>
+
 ---
 
 ### Languages and Tools 🛠 
