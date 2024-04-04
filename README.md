@@ -1,11 +1,26 @@
 # Hi there, I'm ERICK DANIEL <img width="30px" src="https://vignette.wikia.nocookie.net/undertale/images/2/20/Annoying_Dog.gif/revision/latest?cb=20151222191648&path-prefix=pl" />
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 ## I'm a Software Engineering Student
 
-- 📚 I like read <a href="https://www.goodreads.com/user/show/173591428-erick">books</a>
+<img class="cat" align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
+- 📚 I like read <a href="https://www.goodreads.com/user/show/173591428-erick">books</a>
+- 🎧 I like listen to music
+<br>
+
+<img src="https://cdn.betterttv.net/emote/5f1b0186cf6d2144653d2970/3x.webp" width="45px"></img>
+<img src="https://cdn.betterttv.net/emote/5fa8f232eca18f6455c2b2e1/3x.webp" width="45px"></img>
+<img src="https://cdn.betterttv.net/emote/5d38aaa592fc550c2d5996b8/3x.webp" width="45px"></img>
+<img src="https://cdn.betterttv.net/emote/5f455410b2efd65d77e8cb14/3x.webp" width="45px"></img>
+<img src="https://cdn.betterttv.net/emote/657ce50af6fad6cd3a5ce7cc/3x.webp" width="45px"></img>
+<img src="https://cdn.betterttv.net/emote/6228bfe606fd6a9f5be69c39/3x.webp" width="45px"></img>
+
+
+---
+
+<img src="https://imagetolink.com/ib/JhlMRrRVm7.png"></img>
+<img src="https://imagetolink.com/ib/iKnhxs2Jji.png"></img>
+<img src="https://imagetolink.com/ib/zxARGhNqMI.png"></img>
 ---
 
 ### Languages and Tools 🛠 
