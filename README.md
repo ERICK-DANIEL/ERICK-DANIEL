@@ -5,7 +5,7 @@
 <img class="cat" align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 📚 I like read <a href="https://www.goodreads.com/user/show/173591428-erick">books</a>
-- 🎧 I like listen to music
+- 🎧 I like to listen to music
 <br>
 
 <img src="https://cdn.betterttv.net/emote/5f1b0186cf6d2144653d2970/3x.webp" width="45px"></img>
@@ -19,7 +19,7 @@
 
 ---
 
-<img src="https://imagetolink.com/ib/iKnhxs2Jji.png" width="200px"></img>
+<img src="https://i.giphy.com/cmxCua7chnMpzVxGrE.webp" width="200px"></img>
 
 ---
 
