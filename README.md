@@ -8,12 +8,7 @@
 - 🎧 I like to listen to music
 <br>
 
-<img src="https://cdn.betterttv.net/emote/5f1b0186cf6d2144653d2970/3x.webp" width="45px"></img>
 <img src="https://cdn.betterttv.net/emote/5fa8f232eca18f6455c2b2e1/3x.webp" width="45px"></img>
-<img src="https://cdn.betterttv.net/emote/5d38aaa592fc550c2d5996b8/3x.webp" width="45px"></img>
-<img src="https://cdn.betterttv.net/emote/5f455410b2efd65d77e8cb14/3x.webp" width="45px"></img>
-<img src="https://cdn.betterttv.net/emote/657ce50af6fad6cd3a5ce7cc/3x.webp" width="45px"></img>
-<img src="https://cdn.betterttv.net/emote/6228bfe606fd6a9f5be69c39/3x.webp" width="45px"></img>
 <br>
 <br>
 
