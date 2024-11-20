@@ -14,10 +14,6 @@
 
 ---
 
-<img src="https://i.giphy.com/cmxCua7chnMpzVxGrE.webp" width="200px"></img>
-
----
-
 ### Languages and Tools 🛠 
 
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
