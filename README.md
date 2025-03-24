@@ -5,8 +5,6 @@
 - 📚 I like read <a href="https://www.goodreads.com/user/show/173591428-erick">books</a>
 - 🎧 I like to listen to music
 <br>
-<br>
-<br>
 
 ---
 
