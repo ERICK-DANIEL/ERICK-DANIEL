@@ -2,13 +2,9 @@
 
 ## I'm a Software Engineering Student
 
-<img class="cat" align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 - 📚 I like read <a href="https://www.goodreads.com/user/show/173591428-erick">books</a>
 - 🎧 I like to listen to music
 <br>
-
-<img src="https://cdn.betterttv.net/emote/5fa8f232eca18f6455c2b2e1/3x.webp" width="45px"></img>
 <br>
 <br>
 
